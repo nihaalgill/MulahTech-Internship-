@@ -1,1 +1,9 @@
+html {
+  scroll-behaviour: smooth;
+  font-family: Helvetica, sans-serif, Arial;
+}
 
+body{
+  margin: 0 auto;
+  background-colour: rgb(131, 126, 126);
+}
